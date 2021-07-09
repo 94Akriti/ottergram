@@ -11,7 +11,7 @@
 
 body {
   font-size: 10px;
-  background: rgb(149, 194, 215);
+  background: rgb(212, 119, 119);
 }
 
 a {
@@ -47,7 +47,7 @@ a {
 }
 
 .thumbnail-title {
-  background: rgb(96, 125, 139);
+  background: rgb(61, 15, 203);
   color: rgb(202, 238, 255);
   display: block;
   font-size: 18px;
